@@ -2,6 +2,6 @@
   "name": "Rond Clignotant",
   "organization": "Ma Société",
   "logoUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmateriel-securite-incendie.fireless.fr%2Ftous-les-accessoires-materiels-incendie%2F387-wb-gyrophare-24-vdc.html&psig=AOvVaw1hKSfhDMqawITJCBThgiYx&ust=1742022060005000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDY5YOAiYwDFQAAAAAdAAAAABAE",
-  "widgetUrl": "https://github.com/Dukan45/test/blob/main/Manifest.js",
+  "widgetUrl": "https://github.com/Dukan45/test/blob/main/widget.js",
   "version": "1.0"
 }
